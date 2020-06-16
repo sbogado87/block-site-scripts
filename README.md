@@ -1,8 +1,6 @@
-# Slock-site-scripts
-Script que bloquea sitios web durante el horario de trabajo
-El mismo permite bloquear sitios que nos ditraen durante nuestro tiempo de trabajo en cuarentena.
-
-## Creado con Python3
+# Script para bloquear sitios
+Se utiliza Python3 para crear este script que bloquea sitios web durante el horario de trabajo
+El mismo permite evitar distracciones durante nuestro tiempo de trabajo en cuarentena.
 
 ## Librerias utilizadas
 Time
